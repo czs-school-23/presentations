@@ -6,6 +6,7 @@ collection of presentations during the Carl-Zeiss-Stiftung Summerschool on Scien
 * [A primer on neural ODEs](Kidger_primer_on_neural_odes.pdf) by Patrick Kidger
 * [Generalizing Scientific Machine Learning through Differentiable Simulation and SciML](Rackauckas_Generalizing_Scientific_Machine_Learning_through%20Differentiable_Simulation_SciML.pdf) by Chris Rackauckas
 * [Information field theory](https://czssummerscho-1zn2726.slack.com/files/U05G80KCBC6/F05NLADAML1/ift_nifty.pdf) by Torsten Enßlin
+* [Reasoning with structure: Graph Neural Networks](Deac_graph_neural_networks.pdf) by Andreea Deac
 
 
 Please cite/acknowledge the author of these documents if you find them useful.
